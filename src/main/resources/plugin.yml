@@ -1,0 +1,5 @@
+name: AchievementTest
+version: '${version}'
+main: com.ulxsth.achievementtest.AchievementTest
+api-version: 1.19
+depend: [UltimateAdvancementAPI]
